@@ -1,0 +1,6 @@
+{
+  "name": "Synth Snake Player",
+  "description": "A dark neon retro arcade that combines a synthesized music player with an interactive custom Snake game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
